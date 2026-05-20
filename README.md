@@ -5,7 +5,7 @@
   <title> Saberes de Juárez | Web de Saberes Comunitarios </title>
   <article class="proposito-blog">
     <!-- Imagen de la X al inicio con atributos de accesibilidad y tamaño -->
-    <img src="https://wikimedia.org" 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm6-ZzKQmLaXPMDTM6ajOm-pOuZeUJk0aehKUlsbqjfA&s" 
          alt="Monumento a la Mexicanidad conocido como la X en Ciudad Juárez" 
          style="max-width: 100%; height: auto; display: block; margin-bottom: 20px; border-radius: 8px;">
 
