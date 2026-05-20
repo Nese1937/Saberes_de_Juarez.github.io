@@ -4,6 +4,11 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title> Saberes de Juárez | Web de Saberes Comunitarios </title>
   <article class="proposito-blog">
+    <!-- Imagen de la X al inicio con atributos de accesibilidad y tamaño -->
+    <img src="https://wikimedia.org" 
+         alt="Monumento a la Mexicanidad conocido como la X en Ciudad Juárez" 
+         style="max-width: 100%; height: auto; display: block; margin-bottom: 20px; border-radius: 8px;">
+
     <header>
         <h2>Propósito del blog</h2>
     </header>
@@ -17,4 +22,5 @@
         </p>
     </main>
 </article>
+
 
