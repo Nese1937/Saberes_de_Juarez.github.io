@@ -37,16 +37,16 @@
     </style>
 </head>
 <body>
-
+<
     <div class="contenedor-grafica">
         <!-- 2. El elemento HTML "canvas" donde se dibujará la gráfica -->
         <canvas id="miGrafica"></canvas>
     </div>
-
+<
     <script>
         // 3. Obtenemos la referencia del canvas en JavaScript
         const ctx = document.getElementById('miGrafica').getContext('2d');
-
+<
         // 4. Creamos y configuramos la gráfica
         const miGrafica = new Chart(ctx, {
             type: 'bar', // Tipo de gráfica: 'bar' (barras), 'line' (líneas), 'pie' (pastel)
